@@ -1,5 +1,6 @@
 # D-couverte_de_Rails
 * Création de:
+
 La page d'accueil. Cette page d'accueil affichera tous les potins créés
 La page qui présente l'équipe de The Gossip Project.
 La page de contact.
