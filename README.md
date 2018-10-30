@@ -1,6 +1,9 @@
 # D-couverte_de_Rails
-
-Tu veux faire de la concurrence à Pinterest, donc tu voudrais créer un un site où les utilisateurs peuvent créer des "pins". Chauqe pin contient une URL d'une image sur le net. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires.
+* Création de:
+La page d'accueil. Cette page d'accueil affichera tous les potins créés
+La page qui présente l'équipe de The Gossip Project.
+La page de contact.
+Une page de bienvenue, qui accueille l'utilisateur en fonction du nom passé dans l'URL.
 
 # Une application rails qui s'appelle the_gossip_project:
 
