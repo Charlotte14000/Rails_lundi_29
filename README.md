@@ -1,10 +1,10 @@
 # D-couverte_de_Rails
-* Création de:
+## Création de:
 
-La page d'accueil. Cette page d'accueil affichera tous les potins créés
-La page qui présente l'équipe de The Gossip Project.
-La page de contact.
-Une page de bienvenue, qui accueille l'utilisateur en fonction du nom passé dans l'URL.
+* La page d'accueil. Cette page d'accueil affichera tous les potins créés
+* La page qui présente l'équipe de The Gossip Project.
+* La page de contact.
+* Une page de bienvenue, qui accueille l'utilisateur en fonction du nom passé dans l'URL.
 
 # Une application rails qui s'appelle the_gossip_project:
 
