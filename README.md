@@ -1,24 +1,28 @@
-# README
+# D-couverte_de_Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tu veux faire de la concurrence à Pinterest, donc tu voudrais créer un un site où les utilisateurs peuvent créer des "pins". Chauqe pin contient une URL d'une image sur le net. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires.
 
-Things you may want to cover:
+# Une application rails qui s'appelle the_gossip_project:
 
-* Ruby version
+## Modéles:
 
-* System dependencies
+*	gossip
+*	application_record
 
-* Configuration
+## Lien app:
+https://d-couvert-rails.herokuapp.com/
 
-* Database creation
 
-* Database initialization
+##  Auteurs
 
-* How to run the test suite
+# Team Caen
 
-* Services (job queues, cache servers, search engines, etc.)
+Maxime Beaufils, Bertrand Pelletier, Iliès El Ouartassi
 
-* Deployment instructions
+### En savoir plus
 
-* ...
+Project for The hacking Project
+
+https://www.thehackingproject.org/
+
+
